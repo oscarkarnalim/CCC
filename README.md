@@ -19,4 +19,4 @@ A constant depicting the programming language.
 values: 'java' for Java, 'python' for Python, 'csharp' for C#, 'cpp' for C++, 'sql' for SQL, 'haskell' for Haskell, or 'r' for R.  
 
 ## Acknowledgment
-This tool uses [ANTLR](https://www.antlr.org/) to tokenise given program,
+This tool uses [ANTLR](https://www.antlr.org/) to tokenise given programs.
