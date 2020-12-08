@@ -1,6 +1,6 @@
 # Common Code Counter
 
-**Common** **code** **counter** \(CCC\) is a Java program to count how many programs contain a code segment via a simple substring matching algorithm. Currently, it covers seven languages: Java, Python, C#, C++, SQL, Haskell, and R. This is part of a working group report and still needs further development. A work based on this code should acknowledge the working report.
+**Common** **code** **counter** \(CCC\) is a Java program to count how many programs contain a code segment via a simple substring matching algorithm. Currently, it covers seven languages: Java, Python, C#, C++, SQL, Haskell, and R. This is part of a working group report and still needs further development. A work based on this code should acknowledge [the corresponding working group report](https://doi.org/10.1145/3437800.3439201) from the 25th annual conference on Innovation and Technology in Computer Science Education (ITiCSE) in Trondheim, Norway.
 
 *Command*: 
 ```
